@@ -7,7 +7,7 @@ public class TestaJPA {
 	public static void main(String ...args){
 		User user = new User(); 
 		user.setName("Murilo");
-		user.setPassword("PingaComMeleLimaO");
+		user.setPassword("pinga-com-mel-e-limao");
 		
 	
 		//Insere Usuario
